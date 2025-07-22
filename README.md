@@ -1,7 +1,5 @@
 # Cyrillify - Исправление русской раскладки
 
-![Cyrillify Banner](https://via.placeholder.com/1200x400/3a0ca3/ffffff?text=Cyrillify+-+Исправление+русской+раскладки)
-
 **Cyrillify** - это удобное расширение для Chrome, которое мгновенно исправляет текст, набранный в неправильной раскладке. Больше не нужно вручную перепечатывать "ghbdtn" в "привет" - просто выделите текст и нажмите сочетание клавиш!
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id?color=blue&label=Chrome%20Web%20Store)](https://chrome.google.com/webstore/detail/cyrillify/your-extension-id)
