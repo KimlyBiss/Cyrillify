@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Cyrillify",
+  "version": "1.0",
+  "permissions": ["contextMenus", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_icon": "icon128.png",
+    "default_title": "Cyrillify - Fix Russian Layout",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "commands": {
+    "fix-selected-text": {
+      "suggested_key": {
+        "default": "Alt+Shift+F",
+        "mac": "Command+Shift+F"
+      },
+      "description": "Convert selected text to Cyrillic"
+    }
+  }
+}
