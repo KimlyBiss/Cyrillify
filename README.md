@@ -33,7 +33,6 @@
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🌟 Особенности кода
 
@@ -41,11 +40,3 @@
 - **Оптимизированный алгоритм** преобразования текста
 - **Кросс-платформенная поддержка** (Windows, macOS, Linux)
 - **Локализованный интерфейс** на русском языке
-
-## 📜 Лицензия
-
-Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](LICENSE).
-
----
-
-**Cyrillify** © 2023 - Ваше решение для работы с русской раскладкой в браузере!
